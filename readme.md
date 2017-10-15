@@ -6,7 +6,7 @@
 ### This boilerplate includes the following folders (*) and files (-) :
 
 * src
-    index.js
+    - index.js
 
 - index.html
 - package.json
