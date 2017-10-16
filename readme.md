@@ -5,12 +5,12 @@
 
 ### This boilerplate includes the following folders (*) and files (-) :
 
-* src
-    - index.js
+* *src
+    - -index.js
 
-- index.html
-- package.json
-- readme.md
+- -index.html
+- -package.json
+- -readme.md
 
 
 
@@ -18,3 +18,4 @@
 
 - react
 - react-dom
+- redux
